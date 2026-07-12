@@ -51,22 +51,7 @@ const kurosaki = {
 
 <!-- ═══════════════════════════════════════ -->
 
-`
-### ▸ signal
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ipongresu&show_icons=true&hide_title=true&border_color=1F2937&bg_color=0D1117&title_color=00F5D4&text_color=8B949E&icon_color=F20089&count_private=true&include_all_commits=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ipongresu&layout=compact&border_color=1F2937&bg_color=0D1117&title_color=00F5D4&text_color=8B949E" height="160" />
-
-<br/><br/>
-
-<!-- SNAKE: baru muncul setelah kamu setup workflow (lihat instruksi) -->
-<img src="https://raw.githubusercontent.com/Ipongresu/Ipongresu/output/snake.svg" alt="snake" />
-
-</div>
-
-<!-- ═══════════════════════════════════════ -->
 
 <div align="center">
 
