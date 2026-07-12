@@ -51,21 +51,7 @@ const kurosaki = {
 
 <!-- ═══════════════════════════════════════ -->
 
-### ▸ building
-
-<div align="center">
-
-<a href="https://github.com/Ipongresu/zeta">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ipongresu&repo=zeta&bg_color=0D1117&title_color=00F5D4&text_color=8B949E&icon_color=F20089&border_color=1F2937" />
-</a>
-<a href="https://github.com/Ipongresu/polymer-template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ipongresu&repo=polymer-template&bg_color=0D1117&title_color=00F5D4&text_color=8B949E&icon_color=F20089&border_color=1F2937" />
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════ -->
-
+`
 ### ▸ signal
 
 <div align="center">
