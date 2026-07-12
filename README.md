@@ -19,7 +19,7 @@
 ### ▸ whoami
 
 ```ts
-const kurosaki = {
+const ipongresu = {
   chain:  ["EVM", "Solidity", "Foundry"],
   ai:     ["agents", "automation", "bots"],
   stack:  ["TypeScript", "Python", "Node"],
